@@ -12,7 +12,7 @@ import Content from '@theme-original/DocSidebar/Desktop/Content';
 function SidebarAd() {
   return (
     // eslint-disable-next-line @docusaurus/no-untranslated-text
-    <div style={{border: 'solid thin red', padding: 10, textAlign: 'center'}}>
+    <div style={{border: 'solid thin red', padding: 10, textAlign: 'center' }}>
       Sidebar Ad
     </div>
   );
